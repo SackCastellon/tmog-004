@@ -37,3 +37,7 @@ Return the head of the merged linked list.
 ## Extra
 
 Run, you fools! No extra spicy stuff this time.
+
+## Credits
+
+This exercise has been extracted from the [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists) website. Don't hesitate, join and practice in this great community.
